@@ -1,0 +1,11 @@
+﻿  Building Custom Rule E:/GAMEdz/CMakeLists.txt
+  main.cpp
+  ShaderProgram.cpp
+  Texture2D.cpp
+  Sprite.cpp
+  AnimatedSprite.cpp
+  ResourceManager.cpp
+  Game.cpp
+  Ghost.cpp
+  Создание кода...
+  Boooo.vcxproj -> E:\GAMEdz\build\bin\Debug\Boooo.exe

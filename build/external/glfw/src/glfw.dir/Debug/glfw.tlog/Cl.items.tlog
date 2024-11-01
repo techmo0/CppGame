@@ -1,0 +1,15 @@
+E:\GAMEdz\external\glfw\src\context.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\context.obj
+E:\GAMEdz\external\glfw\src\init.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\init.obj
+E:\GAMEdz\external\glfw\src\input.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\input.obj
+E:\GAMEdz\external\glfw\src\monitor.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\monitor.obj
+E:\GAMEdz\external\glfw\src\vulkan.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\vulkan.obj
+E:\GAMEdz\external\glfw\src\window.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\window.obj
+E:\GAMEdz\external\glfw\src\win32_init.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\win32_init.obj
+E:\GAMEdz\external\glfw\src\win32_joystick.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\win32_joystick.obj
+E:\GAMEdz\external\glfw\src\win32_monitor.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\win32_monitor.obj
+E:\GAMEdz\external\glfw\src\win32_time.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\win32_time.obj
+E:\GAMEdz\external\glfw\src\win32_thread.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\win32_thread.obj
+E:\GAMEdz\external\glfw\src\win32_window.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\win32_window.obj
+E:\GAMEdz\external\glfw\src\wgl_context.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\wgl_context.obj
+E:\GAMEdz\external\glfw\src\egl_context.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\egl_context.obj
+E:\GAMEdz\external\glfw\src\osmesa_context.c;E:\GAMEdz\build\external\glfw\src\glfw.dir\Debug\osmesa_context.obj

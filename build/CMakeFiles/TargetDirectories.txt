@@ -1,0 +1,7 @@
+E:/GAMEdz/build/CMakeFiles/Boooo.dir
+E:/GAMEdz/build/CMakeFiles/ALL_BUILD.dir
+E:/GAMEdz/build/CMakeFiles/ZERO_CHECK.dir
+E:/GAMEdz/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+E:/GAMEdz/build/external/glfw/src/CMakeFiles/glfw.dir
+E:/GAMEdz/build/external/glad/CMakeFiles/glad.dir
+E:/GAMEdz/build/external/glad/CMakeFiles/ALL_BUILD.dir
